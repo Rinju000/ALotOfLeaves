@@ -1,5 +1,5 @@
 const num = 30;
-let walker = []; //小文字で始まるオブジェクト，大文字で始まるクラス
+let walker = []; //小文字で始まるオブジェクト，大文字で始まるクラス，仮面ライダーエデンはかっこいい
 let walkerColor = [];
 
 function setup() {
